@@ -1,0 +1,10 @@
+[
+  {
+    "name": "NVIDIA GTX 1660",
+    "imgid": "nvdgtx1660"
+  },
+  {
+    "name": "NVIDIA RTX 2060",
+    "imgid": "nvdrtx2060"
+  }
+]
